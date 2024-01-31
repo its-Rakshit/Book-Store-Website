@@ -1,0 +1,20 @@
+.second_mid{
+    margin: 10px;
+}
+.sale-tag {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  .like{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  .view{
+    margin-left: 67%;
+  }
+  .card-img-top{
+    max-height: 500px;
+  }
+
